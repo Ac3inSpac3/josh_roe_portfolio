@@ -1,6 +1,6 @@
 # Josh Roe
 
-### Professional Title: Mechatronics Engineer, Developer
+### Title: Mechatronics Engineer, Developer
 ### Contact: joshroe2001@gmail.com
 
 ## About Me:
