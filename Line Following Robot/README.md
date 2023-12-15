@@ -8,4 +8,4 @@ In the EGB 220 project, our interdisciplinary team developed a PID Controlled Li
 ![Image description](link-to-image)
 
 ### Video Link:
-[![Watch the video](link-to-your-image)](https://youtu.be/CbaVUTIhoLQ)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/CbaVUTIhoLQ)
