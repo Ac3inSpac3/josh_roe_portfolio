@@ -9,3 +9,26 @@ Hello, my name is Josh, and I am a passionate undergrad Mechatronics Engineer wi
 I thrive on challenges and enjoy the process of conceptualising, designing, and implementing solutions that push the boundaries of technology i have available to me and my own creativity. This GitHub portfolio showcases a selection of my projects, reflecting my skills in areas such as CAD design, programming in various languages, and the outcomes of my abilities in programs such as KiCAD and Fusion360.
 
 Feel free to explore my work, and don’t hesitate to reach out for collaborations or discussions!
+
+#Projects
+
+## PID Line Follower
+
+![PID Line Follower](Line Following Robot/)
+![PID Line Follower](LineFollower.png)
+
+## PID Line Follower
+
+![PID Line Follower](Line Following Robot/)
+![PID Line Follower](LineFollower.png)
+
+## PID Line Follower
+
+![PID Line Follower](Line Following Robot/)
+![PID Line Follower](LineFollower.png)
+
+## PID Line Follower
+
+![PID Line Follower](Line Following Robot/)
+![PID Line Follower](LineFollower.png)
+
