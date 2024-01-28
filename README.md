@@ -14,21 +14,21 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 
 ## PID Line Follower
 
-[PID Line Follower](Line Following Robot/)
+[PID Line Follower](Line_Following_Robot/)
 ![PID Line Follower](LineFollower.jpg)
 
 ## PID Line Follower
 
-[PID Line Follower](Line Following Robot/)
+[PID Line Follower](Line_Following_Robot/)
 ![PID Line Follower](LineFollower.jpg)
 
 ## PID Line Follower
 
-[PID Line Follower](Line Following Robot/)
+[PID Line Follower](Line_Following_Robot/)
 ![PID Line Follower](LineFollower.jpg)
 
 ## PID Line Follower
 
-[PID Line Follower](Line Following Robot/)
+[PID Line Follower](Line_Following_Robot/)
 ![PID Line Follower](LineFollower.jpg)
 
