@@ -12,28 +12,33 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 
 #Projects
 
+## Custom ESP32 Dev Board
+
+[Custom ESP32 Dev Board](Custom_ESP32_Dev_Board/)
+![Custom ESP32 Dev Board](DOT_ESP32.png)
+
 ## PID Line Follower
 
 [PID Line Follower](Line_Following_Robot/)
 ![PID Line Follower](LineFollower.jpg)
 
-## Custom ESP32 Dev Board
-
-[Custom ESP32 Dev Board](Custom_ESP32_Dev_Board/)
-![Custom ESP32 Dev Board](LineFollower.jpg)
-
 ## Computer Vision Lunar Rover
 
 [Computer Vision Lunar Rover](Computer_Vision_Lunar_Rover/)
-![Computer Vision Lunar Rover](LineFollower.jpg)
+![Computer Vision Lunar Rover](LunarRobot.jpg)
 
 ## Custom 3D Printer
 
 [Custom 3D Printer](Custom_3D_Printer/)
-![Custom 3D Printer](LineFollower.jpg)
+![Custom 3D Printer](Printer.png)
+
+## One Wheeled Electric Skateboard
+
+[One Wheeled Electric Skateboard](Self_Balancing_Electric_Skateboard/)
+![One Wheeled Electric Skateboard](One_Wheel.png)
 
 ## Drones
 
 [Drones](Drones/)
-![Drones](LineFollower.jpg)
+![Drones](Drone.jpg)
 
