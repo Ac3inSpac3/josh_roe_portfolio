@@ -11,12 +11,16 @@ In the EGB 220 project, our interdisciplinary team developed a PID Controlled Li
 
 ## Features
 
-- Input Voltage: 30V (maximum)
-- Output Voltage: 5V
-- High Current Output
+- Input Voltage: up to 7.2V (2S Li-Ion battery)
+- 4 Sensor IR array for PID controlled line following (Custom PCB)
+- 2 Individual colour sensors for detecting side markers (Custom PCB)
+- Voltage regulator for QUT Arduino Dev Board
+- Custom main PCB including voltage regulator, H-Bridge motor drivers, status LEDs and buttons.
 
 ## Schematic
-The robot had design constraints having to be less than 150mmx150mmx100mm
+The robot had design constraints having to be less than 150mmx150mmx100mm.
+There was cost constraints on the 3D printing which is why the chassis is minimal utilising the main PCB for structural integrity.
+
 ![Schematic](/Images/LF_schematic.jpg)
 
 ## Images
