@@ -7,7 +7,9 @@ In the EGB 220 project, our interdisciplinary team developed a PID Controlled Li
 
 ### Demo Video
 
-![Demo Video](/Videos/LF_demoVid.mp4)
+
+https://github.com/Ac3inSpac3/josh_roe_portfolio/assets/60162987/1e8995d0-dcbe-4ed4-aca4-634ed054e4e2
+
 
 ## Features
 
