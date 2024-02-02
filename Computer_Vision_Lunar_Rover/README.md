@@ -9,7 +9,7 @@ For my Mechatronics 2 class, our projects objective was to design and develop a 
 Mobility: Utilises high torque micro geared motors and rubber Pololu tracks.
 Sample Collection: Employs a split wedge design for efficient rock flipping and sample collection.
 Vision System: Features a high-mounted camera using OpenCV for environmental interpretation, guiding navigation by identifying objects' bearing and distance.
-Navigation: Integrates complex vector fields for object avoidance, wheights varying depending on if the robot is search under rocks for samples or for free samples.
+Navigation: Integrates complex vector fields for object avoidance, weights varying depending on if the robot is search under rocks for samples or for free samples.
 Size: Fits within a Cubesat U1.5 form factor (150mm cubed) with a weight limit of 800 grams.
 Performance: The design includes a cooling fan for the Raspberry Pi to minimize thermal throttling, enhancing performance of the OpenCV code allowing it to run at 30+ fps consistently.
 
@@ -28,5 +28,6 @@ https://github.com/Ac3inSpac3/josh_roe_portfolio/assets/60162987/e5302c60-0233-4
 
 ### Lunar Vision Process
 ![Lunar Vision Process](/Images/LunarVision.jpg)
+### Lunar Vision Input, Masking and Output
 ![Lunar Vision Process](/Images/LunarVision2.png)
 
