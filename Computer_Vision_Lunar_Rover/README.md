@@ -1,33 +1,32 @@
 # OpenCV Lunar Rover
 
 ## Introduction
-In my Mechatronics 2 class, our teams task was to develop a mock lunar rover designed to collect samples (Orange golf balls) on a mock lunar surface.
+For my Mechatronics 2 class, our projects objective was to design and develop a Technology Readiness Level (TRL) 3 prototype capable of autonomously locating, approaching, and retrieving lunar rock samples represented by orange golf balls. The project aims to pitch autonomous robotic exploration concepts to secure funding and enhance Australia's space exploration capabilities.
+![Robot Image](/Images/LunarRobot.jpg)
 
-![Robot Image](/Images/LineFollower.jpg)
+## Design Highlights:
 
-### Demo Video
-The demo for the assignment was to drive 3 laps around the unseen course, stopping for at least 2 seconds at the start stop markers and lowering the speed between the red and green markers. The robot also had to indicate if it was on a straight or curve, we did this via an LED on the robot as well as lowering the speed of the robot depending on the curve. This video shows the first lap of our final demo which we completed perfectly.
+Mobility: Utilises high torque micro geared motors and rubber Pololu tracks.
+Sample Collection: Employs a split wedge design for efficient rock flipping and sample collection.
+Vision System: Features a high-mounted camera using OpenCV for environmental interpretation, guiding navigation by identifying objects' bearing and distance.
+Navigation: Integrates complex vector fields for object avoidance, wheights varying depending on if the robot is search under rocks for samples or for free samples.
+Size: Fits within a Cubesat U1.5 form factor (150mm cubed) with a weight limit of 800 grams.
+Performance: The design includes a cooling fan for the Raspberry Pi to minimize thermal throttling, enhancing performance of the OpenCV code allowing it to run at 30+ fps consistently.
 
-https://github.com/Ac3inSpac3/josh_roe_portfolio/assets/60162987/1e8995d0-dcbe-4ed4-aca4-634ed054e4e2
+## Demo Video
 
+### Rock flipping and sample collection
+https://github.com/Ac3inSpac3/josh_roe_portfolio/assets/60162987/97058c62-8094-453e-bc05-9aa4faa02795
 
-## Features
-
-- Input Voltage: up to 7.2V (2S Li-Ion battery)
-- 4 Sensor IR array for PID controlled line following (Custom PCB)
-- 2 Individual colour sensors for detecting side markers (Custom PCB)
-- Voltage regulator for QUT Arduino Dev Board
-- Custom main PCB including voltage regulator, H-Bridge motor drivers, status LEDs and buttons.
-
-## Schematic
-The robot had design constraints having to be less than 150mmx150mmx100mm.
-There was cost constraints on the 3D printing which is why the chassis is minimal utilising the main PCB for structural integrity.
-
-![Schematic](/Images/LF_schematic.jpg)
+### Rock flipping and sample collection
+https://github.com/Ac3inSpac3/josh_roe_portfolio/assets/60162987/e5302c60-0233-4f46-8ce6-ad5c992e547d
 
 ## Images
+### Schematic
+![Schematic](/Images/LunarSchematic.jpg)
+![Schematic 2](/Images/LunarSchematic2.jpg)
 
-![Side](/Images/LF_sideOn.jpg)
-![Top](/Images/LF_topDown.jpg)
-![Bottom](/Images/LF_bottomUp.jpg)
+### Lunar Vision Process
+![Lunar Vision Process](/Images/LunarVision.jpg)
+![Lunar Vision Process](/Images/LunarVision2.png)
 
