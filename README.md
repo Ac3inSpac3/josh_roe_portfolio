@@ -32,11 +32,6 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 [Drones](Drones/)
 ![Drones](Images/Drone.jpg)
 
-## Custom ESP32 Dev Board
-
-[Custom ESP32 Dev Board](Custom_ESP32_Dev_Board/)
-![Custom ESP32 Dev Board](Images/DOT_ESP32.png)
-
 ## One Wheeled Electric Skateboard
 
 [One Wheeled Electric Skateboard](Self_Balancing_Electric_Skateboard/)
