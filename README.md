@@ -12,11 +12,6 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 
 # Projects
 
-## Custom ESP32 Dev Board
-
-[Custom ESP32 Dev Board](Custom_ESP32_Dev_Board/)
-![Custom ESP32 Dev Board](Images/DOT_ESP32.png)
-
 ## PID Line Follower
 
 [PID Line Follower](Line_Following_Robot/)
@@ -32,13 +27,20 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 [Custom 3D Printer](Custom_3D_Printer/)
 ![Custom 3D Printer](Images/Printer.png)
 
+## Drones
+
+[Drones](Drones/)
+![Drones](Images/Drone.jpg)
+
+## Custom ESP32 Dev Board
+
+[Custom ESP32 Dev Board](Custom_ESP32_Dev_Board/)
+![Custom ESP32 Dev Board](Images/DOT_ESP32.png)
+
 ## One Wheeled Electric Skateboard
 
 [One Wheeled Electric Skateboard](Self_Balancing_Electric_Skateboard/)
 ![One Wheeled Electric Skateboard](Images/One_Wheel.png)
 
-## Drones
 
-[Drones](Drones/)
-![Drones](Images/Drone.jpg)
 
