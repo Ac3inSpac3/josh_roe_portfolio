@@ -15,18 +15,18 @@ The main construction of the board is using CNC aluminium rails with an aluminiu
 
 ## Images
 ### Most recent version
-![Onewheel Image](/V2XR3.png)
+![Onewheel Image](V2XR3.png)
 Full Board construction
 
-![Onewheel Image](/V2XR4.png)
-![Onewheel Image](/V2XR5.png)
+![Onewheel Image](V2XR4.png)
+![Onewheel Image](V2XR5.png)
 18S 2p Battery pack with LEDs and BMS
 
-![Onewheel Image](/V2XR6.png)
+![Onewheel Image](V2XR6.png)
 Controller box with Polycarbonate top lid and Aluminium bottom lid/heatsink, 2S2p boost battery pack
 
-![Onewheel Image](/V2XR2.png)
+![Onewheel Image](V2XR2.png)
 
 ### First working prototype
-![One Wheeled Electric Skateboard](Images/One_Wheel.png)
-![One Wheeled Electric Skateboard](/Version1.jpg)
+![One Wheeled Electric Skateboard](/Images/One_Wheel.png)
+![One Wheeled Electric Skateboard](Version1.jpg)
