@@ -12,5 +12,6 @@ As a personal project I designed a custom ESP32 Module as a way to challenge to 
 - A cool cat silkscreen
 
 ## Images
+![ESP32 Image](/Images/DOT_ESP32_3.png)
 ![ESP32 Image](/Images/DOT_ESP32_2.png)
 ![ESP32 Image](/Images/DOT_ESP32.png)
