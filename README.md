@@ -27,6 +27,11 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 [PID Line Follower](Line_Following_Robot/)
 ![PID Line Follower](Images/LineFollower.jpg)
 
+## Custom ESP32 Module
+
+[Custom 3D Printer](Custom_ESP32_Dev_Board/)
+![Custom 3D Printer](Images/DOT_ESP32_3.jpg)
+
 ## Custom 3D Printer
 
 [Custom 3D Printer](Custom_3D_Printer/)
