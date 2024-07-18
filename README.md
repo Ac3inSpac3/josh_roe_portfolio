@@ -12,6 +12,11 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 
 # Projects
 
+## One Wheeled Electric Skateboard
+
+[One Wheeled Electric Skateboard](Self_Balancing_Electric_Skateboard/)
+![One Wheeled Electric Skateboard](Self_Balancing_Electric_Skateboard/V2XR3.png)
+
 ## PID Line Follower
 
 [PID Line Follower](Line_Following_Robot/)
@@ -32,7 +37,4 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 [Drones](Drones/)
 ![Drones](Images/Drone.jpg)
 
-## One Wheeled Electric Skateboard
 
-[One Wheeled Electric Skateboard](Self_Balancing_Electric_Skateboard/)
-![One Wheeled Electric Skateboard](Images/One_Wheel.png)
