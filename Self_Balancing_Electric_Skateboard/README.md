@@ -30,5 +30,6 @@ Controller box with Polycarbonate top lid and Aluminium bottom lid/heatsink, 2S2
 ### First working prototype
 ![One Wheeled Electric Skateboard](/Images/One_Wheel.png)
 ![One Wheeled Electric Skateboard](Version1.jpg)
-https://github.com/user-attachments/assets/c34da957-fce4-4628-87b8-adb19826fcbf
+
+https://github.com/user-attachments/assets/cba5088a-0389-4431-83c1-3f17988ee4ab
 
