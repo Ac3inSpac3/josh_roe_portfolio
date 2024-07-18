@@ -29,7 +29,7 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 
 ## Custom ESP32 Module
 
-[Custom 3D Printer](Custom_ESP32_Dev_Board/)
+[Custom 3D Printer](Custom_ESP32_Dev_Board/)  
 ![Custom 3D Printer](Images/DOT_ESP32_3.jpg)
 
 ## Custom 3D Printer
