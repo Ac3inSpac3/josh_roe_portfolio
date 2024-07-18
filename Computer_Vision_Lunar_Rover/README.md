@@ -20,6 +20,7 @@ Fits within a Cubesat U1.5 form factor (150mm cubed) with a weight limit of 800 
 The design includes a cooling fan for the Raspberry Pi to minimize thermal throttling, enhancing performance of the OpenCV code allowing it to run at 30+ fps consistently.
 
 ## Demo Video
+https://youtu.be/h_DvUvhf5LI
 
 ### Rock flipping and sample collection
 https://github.com/Ac3inSpac3/josh_roe_portfolio/assets/60162987/97058c62-8094-453e-bc05-9aa4faa02795
