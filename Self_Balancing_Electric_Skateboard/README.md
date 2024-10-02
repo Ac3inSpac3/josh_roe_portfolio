@@ -15,6 +15,9 @@ The main construction of the board is using CNC aluminium rails with an aluminiu
 
 ## Images
 ### Most recent version
+![Onewheel Image](/Images/OW_glory_shot.jpg)
+Finished Onewheel
+
 ![Onewheel Image](Battery_Controller_boxes.jpg)
 In progress battery box and (Older version) controller box
 

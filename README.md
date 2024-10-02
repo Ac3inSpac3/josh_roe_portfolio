@@ -15,7 +15,7 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 ## One Wheeled Electric Skateboard
 
 [One Wheeled Electric Skateboard](Self_Balancing_Electric_Skateboard/)
-![One Wheeled Electric Skateboard](Self_Balancing_Electric_Skateboard/V2XR3.png)
+![One Wheeled Electric Skateboard](Images/OW_glory_shot.jpg)
 
 ## Computer Vision Lunar Rover
 
